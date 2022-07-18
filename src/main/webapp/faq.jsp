@@ -24,6 +24,8 @@
 <html>
 <head>
     <title>Title</title>
+    <link rel="stylesheet" href="css/main.css">
+
 </head>
 <body>
 <%@include file="partials/navbar.jsp"%>
